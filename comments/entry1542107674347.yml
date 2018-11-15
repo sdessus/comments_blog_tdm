@@ -1,6 +1,0 @@
-_id: 4c93d5c0-e735-11e8-8254-43c334e01e2b
-url: Commentaires
-name: Vincent Tam
-email: 4980f828b9588a712cc2013ac10fd13a
-message: "*Félicitations* d'être parvenu à configurer Staticman !  Concernant la modération des commentaires et le délai pour la mise-à-jour du site, il est possible de :\r\n\r\n- utiliser reCAPTCHA pour arrêter tout abus par un bot.\r\n- activer le contrôle des commentaires par `moderation: true` dans `staticman.yml`\r\n- un site *statique* veut dire que le contenu d'*une* requête HTTP reste *constante* entre la réception et de la requête et la réponse d'un serviteur HTTP statique.  Ce constreint technique n'empêche pas votre site de se mettre à jour suite à un commentaire.  Vous pourriez consulter mes exemples de Staticman v3 :\r\n    - Un site Jekyll sur GitHub minimal à https://git.io/smdemo\r\n    - Un site Hugo sur GitLab minimal à https://vincenttam.gitlab.io/test-hugo-staticman"
-date: 1542107674
